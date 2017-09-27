@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mynamecard</string>
+    <string name="class_name">情報工学科</string>
+    <string name="generation">2年</string>
+    <string name="my_number">1601022</string>
+    <string name="full_name">溝越　七瀬</string>
+    <string name="phone_number">080-2786-1598</string>
+    <string name="nickname">ニックネーム</string>
+</resources>
